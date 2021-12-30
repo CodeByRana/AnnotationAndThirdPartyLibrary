@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="887b1c91-fa7e-4bc2-b392-ba2d10c7bd35" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AddBookSystem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddBookSystem/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddBookSystem/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddBookSystem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddBookSystem/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddBookSystem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddBookSystem/src/main/java/com/blz/addressbook/AddressBookSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddBookSystem/src/main/java/com/blz/addressbook/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem-UsingCollection/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem-UsingCollection/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem-UsingCollection/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem-UsingCollection/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem-UsingCollection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem-UsingCollection/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem-UsingCollection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem-UsingCollection/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem-UsingCollection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem-UsingCollection/src/main/java/com/blz/addressbook/AddressBookMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem-UsingCollection/src/main/java/com/blz/addressbook/ContactInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem-UsingCollection/target/classes/com/blz/addressbook/AddressBookMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem-UsingCollection/target/classes/com/blz/addressbook/ContactInformation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem/src/com/bridge/abook/AddressBookMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/src/main/java/com/blz/addressbook/AddressBook.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/src/main/java/com/blz/addressbook/AddressBookMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/src/main/java/com/blz/addressbook/AddressBookOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/src/main/java/com/blz/addressbook/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/target/classes/com/blz/addressbook/AddressBookMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/target/classes/com/blz/addressbook/AddressBookOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/target/classes/com/blz/addressbook/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blz/csv/CSVUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blz/csv/OpenCSVAndJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blz/csv/OpenCSVReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blz/csv/WriteCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Demo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/User.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/User.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/DataStructure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/linkedlist/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/linkedlist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/linkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/linkedlist/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureStackQueue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureStackQueue/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureStackQueue/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureStackQueue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureStackQueue/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureStackQueue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureStackQueue/src/main/java/stack/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureStackQueue/src/main/java/stack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureStackQueue/src/main/java/stack/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureStackQueue/src/main/java/stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-6 Program/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-6 Program/src/com/bridgelabz/JavaProgramDaySix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5Program/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5Program/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5Program/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5Program/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5Program/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5Program/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5Program/Day5Program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeckOfCards/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeckOfCards/src/com/bridge/deckofcard/Cards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeckOfCards/src/com/bridge/deckofcard/DeckOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeckOfCards/src/com/bridge/deckofcard/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeWageDay8/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeWageDay8/src/com/Bridgelabz/EmpWage/EmployeeWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeWageProblemOOPs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GamblingSimulationProblem/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GamblingSimulationProblem/src/com/gambling/problem/GamblingSimulationProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelReservationSystem/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelReservationSystem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelReservationSystem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelReservationSystem/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelReservationSystem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStream/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStream/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStream/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStream/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStream/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStream/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStream/src/main/java/com/blz/io/EmployeePayroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStream/src/main/java/com/blz/io/EmployeePayrollService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStream/src/test/java/com/blz/io/NIOFileAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaIO/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaIO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaIO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaIO/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaIO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaIO_fileHandling/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaIO_fileHandling/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaIO_fileHandling/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaIO_fileHandling/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaIO_fileHandling/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaIO_fileHandling/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit-Regex-UserRegistration/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit-Regex-UserRegistration/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit-Regex-UserRegistration/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit-Regex-UserRegistration/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit-Regex-UserRegistration/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaExpressionJava8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaExpressionJava8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaExpressionJava8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaExpressionJava8/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaExpressionJava8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaExpressionJava8/LambdaExpressionJava8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaExpressionJava8/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LineComparison/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LineComparison/src/com/bridgelabz/line/LineComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LineComparisonOOPS/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LineComparisonOOPS/src/com/bridgelabz/linecom/LineComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumProblemUsingGenerics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumProblemUsingGenerics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumProblemUsingGenerics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumProblemUsingGenerics/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumProblemUsingGenerics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyzerProblem/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyzerProblem/src/main/java/com/bridge/exception/MoodAnalyzerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Regex_UserRegistrationProblem/src/com/bridgelabz/regex/RegexValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Regex_UserRegistrationProblem/src/com/bridgelabz/regex/UserRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeAndLadder/src/com/bridgelabz/SnakeAndLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem-lambdaExpression/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem-lambdaExpression/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem-lambdaExpression/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem-lambdaExpression/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem-lambdaExpression/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem-lambdaExpression/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem-lambdaExpression/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem-lambdaExpression/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem-lambdaExpression/src/main/java/com/blz/registration/UserRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeWage/out/production/EmployeeWage/com/bridgelabz/EmployeeWage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeWage/src/com/bridgelabz/EmployeeWage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeWage/src/com/bridgelabz/EmployeeWage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeAndLadder/out/production/SnakeAndLadder/com/blz/game/SnakeAndLadder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeAndLadder/src/com/blz/game/SnakeAndLadder.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="230ulI3IIWgfpcS4FUfEHPnP0TX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.OpenCSVAndJSON">
+    <configuration name="OpenCSVAndJSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.blz.csv.OpenCSVAndJSON" />
+      <module name="AnnotationAndThirdPartyLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blz.csv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenCSVReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.blz.csv.OpenCSVReader" />
+      <module name="AnnotationAndThirdPartyLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blz.csv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.blz.csv.WriteCSV" />
+      <module name="AnnotationAndThirdPartyLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blz.csv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OpenCSVAndJSON" />
+        <item itemvalue="Application.WriteCSV" />
+        <item itemvalue="Application.OpenCSVReader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="887b1c91-fa7e-4bc2-b392-ba2d10c7bd35" name="Changes" comment="" />
+      <created>1640883484159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640883484159</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
