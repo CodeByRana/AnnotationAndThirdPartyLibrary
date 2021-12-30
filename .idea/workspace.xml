@@ -43,19 +43,6 @@
       <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/target/classes/com/blz/addressbook/AddressBookMain.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/target/classes/com/blz/addressbook/AddressBookOperations.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AddressBookSystem_Java_Annotation/target/classes/com/blz/addressbook/Contact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/blz/csv/CSVUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/blz/csv/OpenCSVAndJSON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/blz/csv/OpenCSVReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/blz/csv/WriteCSV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Demo.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/User.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/User.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DataStructure/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DataStructure/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DataStructure/.idea/modules.xml" afterDir="false" />
@@ -154,6 +141,7 @@
       <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem-lambdaExpression/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem-lambdaExpression/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem-lambdaExpression/src/main/java/com/blz/registration/UserRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EmployeeWage/out/production/EmployeeWage/com/bridgelabz/EmployeeWage.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EmployeeWage/src/com/bridgelabz/EmployeeWage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeWage/src/com/bridgelabz/EmployeeWage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SnakeAndLadder/out/production/SnakeAndLadder/com/blz/game/SnakeAndLadder.class" beforeDir="false" />
@@ -172,7 +160,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="230ulI3IIWgfpcS4FUfEHPnP0TX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
